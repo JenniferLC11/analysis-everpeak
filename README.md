@@ -5,8 +5,12 @@ El objetivo del proyecto es realizar un reporte con el fin de entender el uso qu
 Para esto se cuenta con tres fuentes de datos:
 
 •	plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
+
 •	users_latam.csv: información de clientes: edad, ciudad, fecha de registro, plan contratado.
+
 •	usage.csv: el detalle de uso real: llamadas (duración) y mensajes (longitud).
+
+
 A lo largo del proyecto se realizan las siguientes etapas:
 
 1.	Cargar y explorar los datos: Revisar la estructura de las bases de datos, identificando tipos de datos y valores inconsistentes o nulos.
